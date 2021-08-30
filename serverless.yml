@@ -1,4 +1,4 @@
-service: node-in-aws-web
+service: fe-node-in-aws-web
 
 frameworkVersion: '2'
 
